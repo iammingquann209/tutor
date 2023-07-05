@@ -7,6 +7,7 @@ def read_file(filename):
     except FileNotFoundError:
         print(f"File '{filename}' not found.")
         return None
+
 #WRITE
 def write_file(filename, content):
     try:
