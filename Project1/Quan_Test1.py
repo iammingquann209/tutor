@@ -36,8 +36,8 @@ def format_string(string):
     
 #Max_of_each_Column
     padding = []
-    for x in range(numOfColumn):
-        max_width = max(len(y[x]) for y in nestList)
+    for index in range(numOfColumn):
+        max_width = max(len(element[index]) for element in nestList)
         padding.append(max_width)
     
 #Formatted
