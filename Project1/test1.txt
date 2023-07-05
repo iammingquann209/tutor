@@ -1,0 +1,13 @@
+Interface |   TYPE   | STATUS |      MODE      | FLOWCTRL
+---------------------------------------------------------
+  mgmt    | Ethernet | Up/Up  | Auto/Full/100  | Off/Off 
+---------------------------------------------------------
+xgspon0/1 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/2 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/3 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/4 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/5 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/6 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/7 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/8 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
+xgspon0/9 |  XGSPON  | Up/Up  | Force/Full/10G | Off/Off 
